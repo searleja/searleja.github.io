@@ -18,3 +18,4 @@ This repository is licensed under the [MIT License].
 
 [Jekyll]: https://jekyllrb.com
 [Bundler]: https://bundler.io
+[MIT License]: https://en.wikipedia.org/wiki/MIT_License
